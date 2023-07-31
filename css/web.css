@@ -37,4 +37,5 @@ a{text-decoration: none; color: #333;}
 .footer > ul > li{margin:0 20px ;}
 
 .fdc{flex-direction: column;}
-.content > div >{}
+.c1ul{left: 0;right: 0;top: 100%;}
+.c2ul{left: 0;right: 0;top: 100%;}
